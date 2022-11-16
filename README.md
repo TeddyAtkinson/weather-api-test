@@ -1,7 +1,7 @@
 # _{Application Name}_
 
 ## Contributers
-* Robert Bryan
+* Robert Bryan & Teddy Atkinson
 
 ## Description
 
